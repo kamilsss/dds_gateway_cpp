@@ -1,0 +1,5 @@
+*~
+*.o
+*.a
+build
+src/rti_dds/objs/*
